@@ -4,7 +4,7 @@
 ```
 repositories {
     maven {
-        url = uri("https://lib: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@maven.pkg.github.com/moberancompany/lib")
+        url = uri("https://lib:{PAT}@maven.pkg.github.com/moberancompany/lib")
     }
 }
 
